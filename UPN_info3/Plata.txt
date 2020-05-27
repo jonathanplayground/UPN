@@ -21,3 +21,7 @@ Fisica 2                        --> 2.5
 Pedagogia y conocimiento        --> 3.0
 Circuitos 2                     --> 3.0
 Diseño electronico              --> 3.6
+
+asignatura perdida 
+
+Fisica 2                        --> 2.5

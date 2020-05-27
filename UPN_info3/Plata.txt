@@ -9,7 +9,15 @@ Tecnologia y ciencia        --> 3.9
 Segundo semestre
 
 Matematicas 2                   --> 3.6
-Fisica 1                        -->  3.3
+Fisica 1                        --> 3.3
 Educaciòn, economia y politica  --> 4.0
 Circuitos 1                     --> 3.2
 Fundamentos de tecnologia 2     --> 3.6
+
+Tercer semestre:
+
+Matematicas 3                   --> 4.0
+Fisica 2                        --> 2.5
+Pedagogia y conocimiento        --> 3.0
+Circuitos 2                     --> 3.0
+Diseño electronico              --> 3.6

@@ -33,3 +33,12 @@ Digitales 1                      --> 3.0
 Pedagogia y psicologia           --> 4.6
 Circuitos 3                      --> 3.0
 Diseño electronico 2             --> 3.6
+
+Cinto semestre 
+
+fisica moderna                   --> 
+Digitales 2                      --> 
+teoria y modelos pedagogicos     --> 
+Circuitos 4                      --> 
+Diseño electronico 3             --> 
+informatica 1                    --> 

@@ -34,7 +34,7 @@ Pedagogia y psicologia           --> 4.6
 Circuitos 3                      --> 3.0
 Diseño electronico 2             --> 3.6
 
-Cinto semestre 
+Quiento semestre 
 
 fisica moderna                   --> 
 Digitales 2                      --> 
@@ -42,3 +42,12 @@ teoria y modelos pedagogicos     -->
 Circuitos 4                      --> 
 Diseño electronico 3             --> 
 informatica 1                    --> 
+
+Notas  Quinto semestres 
+
+fisica moderna                   --> 3.0 
+Digitales 2                      --> 3.0
+teoria y modelos pedagogicos     --> 4.0
+Circuitos 4                      --> 3.4
+Diseño electronico 3             --> 3.0
+informatica 1                    --> 3.8

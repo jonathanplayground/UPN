@@ -28,8 +28,8 @@ Fisica 2                        --> 2.5
 
 Cuarto Semestre
 
-Matematicas 4                    --> 
-Digitales u1                     --> 
-Pedagogia y psicologia           --> 
-Circuitos 3                      --> 
-Diseño electronico 2             --> 
+Matematicas 4                    --> 3.3
+Digitales 1                      --> 3.0
+Pedagogia y psicologia           --> 4.6
+Circuitos 3                      --> 3.0
+Diseño electronico 2             --> 3.6

@@ -26,6 +26,15 @@ Cuarto semestre:
 
 Matematicas 4                   --> 3.5
 Pedagogia y psicologia          --> 4.5
-Circuitos 4                     --> 3
+Circuitos 2                     --> 2.5
 Diseño electronico 2            --> 4.3
 Diseño digital 1                --> 3-9
+
+Quinto semestre:
+
+circuitos 2                         --> 
+diseño digital 2                    --> 
+diseño electronico 3                --> 
+introduccion a la fisica moderna    --> 
+informatica 1                       --> 
+teorias y modelos pedagógicos       --> 

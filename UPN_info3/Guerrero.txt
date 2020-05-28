@@ -38,3 +38,4 @@ diseño electronico 3                --> 3.9
 introduccion a la fisica moderna    --> 3.3
 informatica 1                       --> 4.2
 teorias y modelos pedagógicos       --> 4.4
+
